@@ -1,27 +1,47 @@
-### Hi, I'm Thai
+### Hey there, I'm Thai 👋
 
-**Java Full-Stack Developer** from Ha Noi, Vietnam.
+I'm a developer from Hanoi who genuinely enjoys building things that work. Most of my days revolve around **Java** and **Spring Boot** — but I'm always experimenting with new stuff. Lately I've been deep into AI integration, trying to make chatbots that don't suck.
 
-I build enterprise web applications with **Spring Boot**, **Angular/React**, and **PostgreSQL**. Currently exploring AI integration with **Python FastAPI** and **LangChain**.
+Currently working at **FPT** and freelancing on the side. I love the feeling of shipping something real.
 
-#### What I work with
+---
+
+#### 🔧 Things I use daily
 
 ```
-Backend:    Java 11/17 | Spring Boot | Spring Security | JPA/Hibernate | REST API
-Frontend:   Angular | React | Thymeleaf | Bootstrap | TypeScript
-Database:   PostgreSQL | MySQL | MongoDB | Redis
-DevOps:     Docker | Docker Compose | CI/CD | Linux
-AI/ML:      Python | FastAPI | scikit-learn | LangChain
+Java / Spring Boot / Spring AI / Spring Security / JPA
+React / TypeScript / Tailwind CSS
+PostgreSQL / MongoDB / Redis
+Docker / Docker Compose / Linux
 ```
 
-#### Recent projects
+#### 🧪 Things I'm exploring
 
-- **smart-inventory-management** - Warehouse management system with AI-powered demand forecasting (Java + Python FastAPI)
-- **payment-api** - Payment processing microservice with wallet, P2P transfers, and webhook system
-- **booking-api** - Booking and reservation REST API with scheduling engine
-- **ai-chatbot** - AI chatbot service with Spring Boot backend and React frontend
-- **crm-app** - Customer relationship management with sales pipeline tracking
+```
+OpenAI API / RAG pipelines / pgvector
+Microservices architecture / Event-driven systems
+Python FastAPI (for ML stuff)
+```
 
-#### Stats
+---
+
+#### 📌 Projects I'm proud of
+
+| Project | What it does |
+|---------|-------------|
+| [**ai-chatbot-spring**](https://github.com/daoninhthai/ai-chatbot-spring) | AI chatbot with real-time streaming, RAG, and JWT auth — Spring Boot + React |
+| [**payment-api**](https://github.com/daoninhthai/payment-api) | Payment microservice — wallets, P2P transfers, webhooks |
+| [**smart-inventory-management**](https://github.com/daoninhthai/smart-inventory-management) | Warehouse system with AI demand forecasting |
+| [**chat-app**](https://github.com/daoninhthai/chat-app) | Real-time chat with WebSocket & Spring Boot |
+| [**crm-app**](https://github.com/daoninhthai/crm-app) | CRM with sales pipeline & customer tracking |
+| [**api-gateway**](https://github.com/daoninhthai/api-gateway) | API Gateway for microservices routing |
+
+---
+
+#### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daoninhthai&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+*If you need someone to build your backend, integrate AI, or just turn your idea into a working product — let's talk.*
